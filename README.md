@@ -45,6 +45,6 @@ Wina 主要成员：班某抓 张某均
 # FJ：
 ### 使用说明（官方文档）：
 ##### 链接1（Github）：
-[![官方说明](https://img.shields.io/badge/FJ-Use-purple)](https://github.com/CoconutShoe114/FJ/)
+[![官方说明](https://img.shields.io/badge/FJ-Use-purple)](https://github.com/CoconutShoe114/FJ/tree/main/FJ-DOCS/Use)
 ##### 链接2（官网）：
 [![官方说明](https://img.shields.io/badge/FJ-Use-purple)](https://)
